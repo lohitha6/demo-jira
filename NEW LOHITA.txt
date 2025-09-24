@@ -1,2 +1,2 @@
 hi this is new txt file
-NEW ONE
+NEW ONE 1
